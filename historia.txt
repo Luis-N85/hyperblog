@@ -1,3 +1,5 @@
 Hola seguire haciendo cosas por aqui........
 
 Este es mi primer archivo en git.
+
+Hoy hablaremos de los progresos del proyecto
